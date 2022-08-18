@@ -14,4 +14,4 @@ test – набор изображений, для которых необход
 значениеМетрика
 ## Коэффициент детерминации (R2):
 $$ R2 = 1 - \frac{\sum\limits_{i=1}^n (y_i-\hat{y})^2}{\sum\limits_{i=1}^n (y_i-\bar{y})^2} $$
-$$ \bar{y} = \frac{1}{n} sum\limits_{i=1}^n (y_i) $$
+$$ \bar{y} = \frac{sum\limits_{i=1}^n (y_i)}{n}  $$
